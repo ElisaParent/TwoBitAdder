@@ -32,7 +32,7 @@ documentation:
 
 # Instructions on how someone could test your project, include things like what buttons do what and how to set the clock if needed
   how_to_test:  |
-      Use a truth table to test the two bit full adder.
+      Use a truth table to test the two bit full adder, making sure 0+0=0, 1+0=1, 1+1 =2 and 2+1=3.
 
 # A description of what the inputs do (e.g. red button, SPI CLK, SPI MOSI, etc).
   inputs:               
